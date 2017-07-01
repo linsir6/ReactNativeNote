@@ -1,0 +1,2 @@
+# ReactNativeNote
+记录一些在学习ReactNative过程中遇到的问题和它们的解决方案
