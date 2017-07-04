@@ -9,6 +9,7 @@
 - [短信验证码倒计时控件](/ReactNative相关/短信验证码倒计时控件.md)
 - [ReactNative报错记录](/ReactNative相关/ReactNative报错记录.md)
 - [ReactNative利用CodePush实现热更新](/ReactNative相关/ReactNative利用CodePush实现热更新.md)
+- [Touchable系列组建讲解](/ReactNative相关/Touchable系列组建讲解.md)
 
 ----
 
