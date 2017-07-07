@@ -11,7 +11,7 @@
 - [ReactNative利用CodePush实现热更新](/ReactNative相关/ReactNative利用CodePush实现热更新.md)
 - [Touchable系列组建讲解](/ReactNative相关/Touchable系列组建讲解.md)
 - [ReactNative调试心得](/ReactNative相关/ReactNative调试心得.md)
-- [React/React Native 的ES5 ES6写法对照表](/ReactNative相关/React/React Native 的ES5 ES6写法对照表.md)
+- [React/React Native 的ES5 ES6写法对照表](https://github.com/linsir6/ReactNativeNote/blob/master/ReactNative%E7%9B%B8%E5%85%B3/React%20Native%20%E7%9A%84ES5%20ES6%E5%86%99%E6%B3%95%E5%AF%B9%E7%85%A7%E8%A1%A8.md)
 
 
 
